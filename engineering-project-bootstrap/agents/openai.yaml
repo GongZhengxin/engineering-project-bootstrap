@@ -1,0 +1,4 @@
+interface:
+  display_name: "工程项目接管与启动"
+  short_description: "发现原项目的工程入口、开发流程及验收条件，核对协作角色的权限"
+  default_prompt: "使用 $engineering-project-bootstrap 接管这个项目，按我的标准软件工程工作流准备开发。"

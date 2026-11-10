@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+install-*.json
+*.disabled/
+replay-*/
+trial/
+dist/
